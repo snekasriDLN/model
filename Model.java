@@ -11,9 +11,9 @@ public class Model {
     System.out.println(t1 instanceof Dog);
     System.out.println(t2 instanceof Rat);
     System.out.println(t3 instanceof Lion);
-    System.out.println(t1 instanceof Women);
-    System.out.println(t2 instanceof Men);
-    System.out.println(t3 instanceof Child);
+    System.out.println(t4 instanceof Women);
+    System.out.println(t5 instanceof Men);
+    System.out.println(t6 instanceof Child);
 
 }
 }
